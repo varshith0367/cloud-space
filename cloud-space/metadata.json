@@ -1,6 +1,0 @@
-{
-  "name": "Cloud Space",
-  "description": "AI-powered cloud platform with intelligent file management, smart search, automated workflows, multi-role workspaces, and developer management console.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
